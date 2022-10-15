@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 500;
+    font-size: 14px;
+}
+
+input[type="range"] {
+    -webkit-appearance: none;
+    appearance: none;
+    background: transparent;
+    cursor: pointer;
+    width: 10rem;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+    height: 0.2rem;
+    background:#053a5f;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    margin-top: -3px;
+    background-color: white;
+    height: 0.5rem;
+    width: 0.4rem;
+}
+
+p {
+    background-color: antiquewhite;
+    display: inline-flex;
+    font-size: 50px;
+    height: 100px;
+    width: 175px;
+    align-items: center;
+    justify-content: center;
+}
+
