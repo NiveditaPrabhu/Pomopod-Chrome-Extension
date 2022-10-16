@@ -1,6 +1,6 @@
 # About This Project
 This project is a Google Chrome Extension timer with background brown noise.
-![alt text](http://url/to/ExtensionPhoto.png)
+![alt text](ExtensionPhoto.png)
 
 ## Built With
 - Visual Studio Code
