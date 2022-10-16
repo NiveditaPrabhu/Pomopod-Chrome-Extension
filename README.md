@@ -1,11 +1,11 @@
 # About This Project
 This project is a Google Chrome Extension timer with background brown noise.
-![alt text](ExtensionPopup.png)
-<img
+
+<center><img
   src="ExtensionPopup.png"
   alt="Extension Popup"
   title="Extension Popup"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; text-align: center; margin: 0 auto; width: 250px"></center>
 
 ## Built With
 - Visual Studio Code
